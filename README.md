@@ -1,1 +1,2 @@
-# Homework2-Caltech101
+# Transfert Learning on AlexNet
+
